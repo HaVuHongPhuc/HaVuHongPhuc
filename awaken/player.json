@@ -1,8 +1,8 @@
 {
   "login": "HaVuHongPhuc",
-  "level": 7,
+  "level": 6,
   "overall": "B",
-  "overallPercentile": 0.7719597491739573,
+  "overallPercentile": 0.7702354031708362,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 158,
+      "value": 157,
       "rank": "B",
-      "percentile": 0.7739300714225344
+      "percentile": 0.7727053009137045
     },
     {
       "code": "AGI",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 10,
+      "value": 9,
       "rank": "A",
-      "percentile": 0.9348315269247548
+      "percentile": 0.9145434310833055
     },
     {
       "code": "LUK",
@@ -97,7 +97,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 158
+      "value": 157
     },
     {
       "id": "unbroken",
@@ -107,7 +107,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 45
+      "value": 46
     },
     {
       "id": "early-bird",
@@ -122,7 +122,7 @@
     {
       "id": "gate-opener",
       "tier": 1,
-      "value": 10
+      "value": 9
     },
     {
       "id": "raider",
@@ -187,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 7
+      "value": 9
     },
     {
       "id": "boss-slayer",
@@ -202,11 +202,16 @@
     {
       "id": "collector",
       "tier": 1,
-      "value": 5
+      "value": 6
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-10-27",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-10-26",
         "cleared": 2,
@@ -226,7 +231,7 @@
     "perfectDays": 1,
     "run": 0,
     "bestRun": 1,
-    "questsDone": 7,
+    "questsDone": 9,
     "bosses": [
       "2026-10-19"
     ],
@@ -236,8 +241,9 @@
       "average",
       "commit",
       "two-repos",
-      "streak"
+      "streak",
+      "mp"
     ]
   },
-  "syncedAt": "2026-10-26T21:35:16.186Z"
+  "syncedAt": "2026-10-27T21:14:02.232Z"
 }
