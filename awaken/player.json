@@ -2,7 +2,7 @@
   "login": "HaVuHongPhuc",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.7718485259082604,
+  "overallPercentile": 0.7721005737745744,
   "layout": "default",
   "class": {
     "name": "Blade Master",
@@ -19,9 +19,9 @@
     },
     {
       "code": "AGI",
-      "value": 39,
+      "value": 40,
       "rank": "S",
-      "percentile": 0.946090223500229
+      "percentile": 0.9476889854197987
     },
     {
       "code": "INT",
@@ -50,6 +50,13 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "1",
+      "to": "2",
+      "at": "2026-11-02T23:51:09.114Z"
+    },
+    {
       "kind": "level",
       "subject": "Level",
       "from": "6",
@@ -68,17 +75,17 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 38
+      "value": 39
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 32
+      "value": 33
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 37
+      "value": 38
     },
     {
       "id": "relentless",
@@ -93,7 +100,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 45
+      "value": 46
     },
     {
       "id": "early-bird",
@@ -118,7 +125,7 @@
     {
       "id": "flawless",
       "tier": 2,
-      "value": 97
+      "value": 98
     },
     {
       "id": "healer",
@@ -163,7 +170,7 @@
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
@@ -173,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 17
+      "value": 20
     },
     {
       "id": "boss-slayer",
@@ -187,12 +194,17 @@
     },
     {
       "id": "collector",
-      "tier": 1,
-      "value": 6
+      "tier": 2,
+      "value": 7
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-02",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-01",
         "cleared": 2,
@@ -239,10 +251,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 1,
-    "run": 0,
+    "perfectDays": 2,
+    "run": 1,
     "bestRun": 1,
-    "questsDone": 17,
+    "questsDone": 20,
     "bosses": [
       "2026-10-26",
       "2026-10-19"
@@ -254,8 +266,9 @@
       "commit",
       "two-repos",
       "streak",
-      "mp"
+      "mp",
+      "three"
     ]
   },
-  "syncedAt": "2026-11-01T21:06:27.624Z"
+  "syncedAt": "2026-11-02T23:51:09.114Z"
 }
