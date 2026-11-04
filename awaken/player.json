@@ -2,7 +2,7 @@
   "login": "HaVuHongPhuc",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.7738616119327957,
+  "overallPercentile": 0.7747922713292346,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 175,
+      "value": 178,
       "rank": "B",
-      "percentile": 0.7931404310788179
+      "percentile": 0.7962423943829294
     },
     {
       "code": "AGI",
-      "value": 43,
+      "value": 46,
       "rank": "S",
-      "percentile": 0.9520784704742307
+      "percentile": 0.9559367662846818
     },
     {
       "code": "INT",
@@ -51,6 +51,13 @@
   "events": [
     {
       "kind": "achievement",
+      "subject": "night-owl",
+      "from": "2",
+      "to": "3",
+      "at": "2026-11-04T22:31:32.651Z"
+    },
+    {
+      "kind": "achievement",
       "subject": "diligent",
       "from": "0",
       "to": "1",
@@ -69,35 +76,28 @@
       "from": "6",
       "to": "7",
       "at": "2026-10-31T20:26:03.783Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "AGI",
-      "from": "A",
-      "to": "S",
-      "at": "2026-10-28T21:37:26.382Z"
     }
   ],
   "achievements": [
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 42
+      "value": 45
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 36
+      "value": 39
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 41
+      "value": 44
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 175
+      "value": 178
     },
     {
       "id": "unbroken",
@@ -106,8 +106,8 @@
     },
     {
       "id": "night-owl",
-      "tier": 2,
-      "value": 43
+      "tier": 3,
+      "value": 45
     },
     {
       "id": "early-bird",
@@ -172,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 50
+      "value": 51
     },
     {
       "id": "daily-grinder",
@@ -187,7 +187,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 23
+      "value": 25
     },
     {
       "id": "boss-slayer",
@@ -207,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-04",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-03",
         "cleared": 3,
@@ -264,9 +269,9 @@
       }
     ],
     "perfectDays": 3,
-    "run": 2,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 23,
+    "questsDone": 25,
     "bosses": [
       "2026-10-26",
       "2026-10-19"
@@ -282,5 +287,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-03T22:15:46.032Z"
+  "syncedAt": "2026-11-04T22:31:32.651Z"
 }
