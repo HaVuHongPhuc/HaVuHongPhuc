@@ -2,7 +2,7 @@
   "login": "HaVuHongPhuc",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.7747922713292346,
+  "overallPercentile": 0.7755755826538251,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 178,
+      "value": 181,
       "rank": "B",
-      "percentile": 0.7962423943829294
+      "percentile": 0.7992661280546188
     },
     {
       "code": "AGI",
-      "value": 46,
+      "value": 47,
       "rank": "S",
-      "percentile": 0.9559367662846818
+      "percentile": 0.9571199027450578
     },
     {
       "code": "INT",
@@ -82,22 +82,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 45
+      "value": 46
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 39
+      "value": 40
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 44
+      "value": 45
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 178
+      "value": 181
     },
     {
       "id": "unbroken",
@@ -107,7 +107,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 45
+      "value": 46
     },
     {
       "id": "early-bird",
@@ -117,7 +117,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 33
+      "value": 32
     },
     {
       "id": "gate-opener",
@@ -172,7 +172,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 51
+      "value": 52
     },
     {
       "id": "daily-grinder",
@@ -187,12 +187,12 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 25
+      "value": 26
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 2
+      "value": 3
     },
     {
       "id": "escape-artist",
@@ -207,6 +207,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-05",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-04",
         "cleared": 2,
@@ -271,8 +276,9 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 25,
+    "questsDone": 26,
     "bosses": [
+      "2026-11-02",
       "2026-10-26",
       "2026-10-19"
     ],
@@ -287,5 +293,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-04T22:31:32.651Z"
+  "syncedAt": "2026-11-05T22:38:49.262Z"
 }
