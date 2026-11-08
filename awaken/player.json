@@ -2,7 +2,7 @@
   "login": "HaVuHongPhuc",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.7761169742981217,
+  "overallPercentile": 0.7772561469895573,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 184,
+      "value": 185,
       "rank": "B",
-      "percentile": 0.8022144981792857
+      "percentile": 0.8031810159031002
     },
     {
       "code": "AGI",
-      "value": 47,
+      "value": 49,
       "rank": "S",
-      "percentile": 0.9571199027450578
+      "percentile": 0.9593481402541741
     },
     {
       "code": "INT",
@@ -75,22 +75,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 46
+      "value": 48
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 40
+      "value": 42
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 45
+      "value": 47
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 184
+      "value": 185
     },
     {
       "id": "unbroken",
@@ -100,7 +100,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 46
+      "value": 47
     },
     {
       "id": "early-bird",
@@ -110,7 +110,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 31
+      "value": 32
     },
     {
       "id": "gate-opener",
@@ -165,7 +165,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 53
+      "value": 54
     },
     {
       "id": "daily-grinder",
@@ -180,7 +180,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 30
+      "value": 31
     },
     {
       "id": "boss-slayer",
@@ -200,6 +200,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-08",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-07",
         "cleared": 2,
@@ -279,7 +284,7 @@
     "perfectDays": 3,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 30,
+    "questsDone": 31,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -296,5 +301,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-07T20:48:49.495Z"
+  "syncedAt": "2026-11-08T21:04:54.469Z"
 }
