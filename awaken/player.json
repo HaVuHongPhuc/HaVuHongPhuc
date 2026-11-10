@@ -55,13 +55,6 @@
       "from": "2",
       "to": "3",
       "at": "2026-11-04T22:31:32.651Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "diligent",
-      "from": "0",
-      "to": "1",
-      "at": "2026-11-03T22:15:46.032Z"
     }
   ],
   "achievements": [
@@ -173,7 +166,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 34
+      "value": 36
     },
     {
       "id": "boss-slayer",
@@ -193,6 +186,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-10",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-09",
         "cleared": 3,
@@ -280,9 +278,9 @@
       }
     ],
     "perfectDays": 4,
-    "run": 1,
+    "run": 0,
     "bestRun": 2,
-    "questsDone": 34,
+    "questsDone": 36,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -299,5 +297,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-10T00:39:12.350Z"
+  "syncedAt": "2026-11-10T22:18:49.505Z"
 }
