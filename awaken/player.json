@@ -2,7 +2,7 @@
   "login": "HaVuHongPhuc",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.7772561469895573,
+  "overallPercentile": 0.7779609105769626,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 185,
+      "value": 189,
       "rank": "B",
-      "percentile": 0.8031810159031002
+      "percentile": 0.8069683203328021
     },
     {
       "code": "AGI",
@@ -62,13 +62,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-11-03T22:15:46.032Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "collector",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-02T23:51:09.114Z"
     }
   ],
   "achievements": [
@@ -90,7 +83,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 185
+      "value": 189
     },
     {
       "id": "unbroken",
@@ -110,7 +103,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 32
+      "value": 31
     },
     {
       "id": "gate-opener",
@@ -165,12 +158,12 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 54
+      "value": 55
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 3
+      "value": 4
     },
     {
       "id": "perfect-week",
@@ -180,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 31
+      "value": 34
     },
     {
       "id": "boss-slayer",
@@ -200,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-09",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-08",
         "cleared": 1,
@@ -281,10 +279,10 @@
         "total": 3
       }
     ],
-    "perfectDays": 3,
-    "run": 0,
+    "perfectDays": 4,
+    "run": 1,
     "bestRun": 2,
-    "questsDone": 31,
+    "questsDone": 34,
     "bosses": [
       "2026-11-02",
       "2026-10-26",
@@ -301,5 +299,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-08T21:04:54.469Z"
+  "syncedAt": "2026-11-10T00:39:12.350Z"
 }
