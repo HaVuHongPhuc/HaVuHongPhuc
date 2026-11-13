@@ -133,7 +133,7 @@
     {
       "id": "veteran",
       "tier": 1,
-      "value": 1
+      "value": 2
     },
     {
       "id": "berserker",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-13",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-12",
         "cleared": 3,
@@ -280,7 +285,7 @@
       }
     ],
     "perfectDays": 5,
-    "run": 1,
+    "run": 0,
     "bestRun": 2,
     "questsDone": 41,
     "bosses": [
@@ -300,5 +305,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-12T22:40:55.106Z"
+  "syncedAt": "2026-11-13T22:30:34.294Z"
 }
