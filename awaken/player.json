@@ -2,7 +2,7 @@
   "login": "HaVuHongPhuc",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.7786023268942428,
+  "overallPercentile": 0.7787753238740253,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 190,
+      "value": 191,
       "rank": "B",
-      "percentile": 0.8078959239030687
+      "percentile": 0.8088160208633248
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 190
+      "value": 191
     },
     {
       "id": "unbroken",
@@ -78,7 +78,7 @@
     {
       "id": "night-owl",
       "tier": 3,
-      "value": 47
+      "value": 46
     },
     {
       "id": "early-bird",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 56
+      "value": 57
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 41
+      "value": 42
     },
     {
       "id": "boss-slayer",
@@ -168,7 +168,7 @@
     {
       "id": "escape-artist",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "collector",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-15",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-14",
         "cleared": 0,
@@ -292,14 +297,14 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 41,
+    "questsDone": 42,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
       "2026-10-26",
       "2026-10-19"
     ],
-    "escapes": 1,
+    "escapes": 2,
     "kinds": [
       "contribute",
       "average",
@@ -310,5 +315,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-14T21:22:12.960Z"
+  "syncedAt": "2026-11-15T21:40:37.858Z"
 }
