@@ -2,7 +2,7 @@
   "login": "HaVuHongPhuc",
   "level": 7,
   "overall": "B",
-  "overallPercentile": 0.7787753238740253,
+  "overallPercentile": 0.7797484029335293,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 191,
+      "value": 194,
       "rank": "B",
-      "percentile": 0.8088160208633248
+      "percentile": 0.8115321518447742
     },
     {
       "code": "AGI",
-      "value": 50,
+      "value": 51,
       "rank": "S",
-      "percentile": 0.9603980659772843
+      "percentile": 0.96140814595261
     },
     {
       "code": "INT",
@@ -53,22 +53,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 49
+      "value": 50
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 43
+      "value": 44
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 48
+      "value": 49
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 191
+      "value": 194
     },
     {
       "id": "unbroken",
@@ -88,7 +88,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 31
+      "value": 30
     },
     {
       "id": "gate-opener",
@@ -143,7 +143,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 57
+      "value": 59
     },
     {
       "id": "daily-grinder",
@@ -158,7 +158,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 44
+      "value": 45
     },
     {
       "id": "boss-slayer",
@@ -178,6 +178,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-17",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-16",
         "cleared": 2,
@@ -302,7 +307,7 @@
     "perfectDays": 5,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 44,
+    "questsDone": 45,
     "bosses": [
       "2026-11-09",
       "2026-11-02",
@@ -320,5 +325,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-17T00:44:50.114Z"
+  "syncedAt": "2026-11-17T23:49:19.163Z"
 }
