@@ -1,8 +1,8 @@
 {
   "login": "HaVuHongPhuc",
   "level": 7,
-  "overall": "B",
-  "overallPercentile": 0.7797484029335293,
+  "overall": "A",
+  "overallPercentile": 0.895305528234681,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -37,18 +37,33 @@
     },
     {
       "code": "LUK",
-      "value": 0,
-      "rank": "E",
-      "percentile": 0
+      "value": 1,
+      "rank": "B",
+      "percentile": 0.7912280168701755
     },
     {
       "code": "CHA",
-      "value": 1,
+      "value": 2,
       "rank": "C",
-      "percentile": 0.6689367771328458
+      "percentile": 0.7154979269401185
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "kind": "overall",
+      "subject": "Overall rank",
+      "from": "B",
+      "to": "A",
+      "at": "2026-11-20T23:02:04.741Z"
+    },
+    {
+      "kind": "stat",
+      "subject": "LUK",
+      "from": "E",
+      "to": "B",
+      "at": "2026-11-20T23:02:04.741Z"
+    }
+  ],
   "achievements": [
     {
       "id": "pull-shark",
@@ -118,12 +133,12 @@
     {
       "id": "star-collector",
       "tier": 0,
-      "value": 0
+      "value": 1
     },
     {
       "id": "beacon",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "guild-hopper",
@@ -178,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-20",
+        "cleared": 0,
+        "total": 3
+      },
       {
         "date": "2026-11-19",
         "cleared": 0,
@@ -335,5 +355,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-19T23:30:26.644Z"
+  "syncedAt": "2026-11-20T23:02:04.741Z"
 }
