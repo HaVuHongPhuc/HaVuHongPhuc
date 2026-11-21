@@ -2,7 +2,7 @@
   "login": "HaVuHongPhuc",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.895305528234681,
+  "overallPercentile": 0.8956391309039305,
   "layout": "default",
   "class": {
     "name": "Grand Magus",
@@ -13,15 +13,15 @@
   "stats": [
     {
       "code": "STR",
-      "value": 194,
+      "value": 198,
       "rank": "B",
-      "percentile": 0.8115321518447742
+      "percentile": 0.8150537901758261
     },
     {
       "code": "AGI",
-      "value": 51,
+      "value": 52,
       "rank": "S",
-      "percentile": 0.96140814595261
+      "percentile": 0.9623804115675303
     },
     {
       "code": "INT",
@@ -50,6 +50,27 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "yolo",
+      "from": "2",
+      "to": "3",
+      "at": "2026-11-21T22:08:34.972Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "quest-hunter",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-21T22:08:34.972Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "escape-artist",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-21T22:08:34.972Z"
+    },
+    {
       "kind": "overall",
       "subject": "Overall rank",
       "from": "B",
@@ -68,22 +89,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 50
+      "value": 51
     },
     {
       "id": "quickdraw",
       "tier": 3,
-      "value": 44
+      "value": 45
     },
     {
       "id": "yolo",
-      "tier": 2,
-      "value": 49
+      "tier": 3,
+      "value": 50
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 194
+      "value": 198
     },
     {
       "id": "unbroken",
@@ -103,7 +124,7 @@
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 30
+      "value": 32
     },
     {
       "id": "gate-opener",
@@ -158,7 +179,7 @@
     {
       "id": "diligent",
       "tier": 1,
-      "value": 59
+      "value": 60
     },
     {
       "id": "daily-grinder",
@@ -172,27 +193,32 @@
     },
     {
       "id": "quest-hunter",
-      "tier": 0,
-      "value": 48
+      "tier": 1,
+      "value": 50
     },
     {
       "id": "boss-slayer",
       "tier": 1,
-      "value": 4
+      "value": 5
     },
     {
       "id": "escape-artist",
-      "tier": 0,
-      "value": 2
+      "tier": 1,
+      "value": 3
     },
     {
       "id": "collector",
       "tier": 2,
-      "value": 7
+      "value": 8
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-21",
+        "cleared": 2,
+        "total": 3
+      },
       {
         "date": "2026-11-20",
         "cleared": 0,
@@ -337,14 +363,15 @@
     "perfectDays": 6,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 48,
+    "questsDone": 50,
     "bosses": [
+      "2026-11-16",
       "2026-11-09",
       "2026-11-02",
       "2026-10-26",
       "2026-10-19"
     ],
-    "escapes": 2,
+    "escapes": 3,
     "kinds": [
       "contribute",
       "average",
@@ -352,8 +379,9 @@
       "two-repos",
       "streak",
       "mp",
-      "three"
+      "three",
+      "weekend"
     ]
   },
-  "syncedAt": "2026-11-20T23:02:04.741Z"
+  "syncedAt": "2026-11-21T22:08:34.972Z"
 }
