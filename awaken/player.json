@@ -83,20 +83,6 @@
       "from": "0",
       "to": "1",
       "at": "2026-11-21T22:08:34.972Z"
-    },
-    {
-      "kind": "overall",
-      "subject": "Overall rank",
-      "from": "B",
-      "to": "A",
-      "at": "2026-11-20T23:02:04.741Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "LUK",
-      "from": "E",
-      "to": "B",
-      "at": "2026-11-20T23:02:04.741Z"
     }
   ],
   "achievements": [
@@ -208,7 +194,7 @@
     {
       "id": "quest-hunter",
       "tier": 1,
-      "value": 61
+      "value": 62
     },
     {
       "id": "boss-slayer",
@@ -228,6 +214,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-27",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-26",
         "cleared": 2,
@@ -402,7 +393,7 @@
     "perfectDays": 8,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 61,
+    "questsDone": 62,
     "bosses": [
       "2026-11-23",
       "2026-11-16",
@@ -423,5 +414,5 @@
       "weekend"
     ]
   },
-  "syncedAt": "2026-11-27T00:59:15.567Z"
+  "syncedAt": "2026-11-28T00:28:51.528Z"
 }
